@@ -40,6 +40,9 @@
 
 ## Stack and Queue
 ### Stack
+
+![](https://images.velog.io/images/yeonns2/post/dc9a8b0c-8433-4230-ae35-3bc48e08595c/image.png)
+
  - stack 의 개념
     
     한 쪽 끝에서만 자료를 넣고 뺄 수 있는 LIFO(Last in First out) 형식의 자료구조
@@ -120,3 +123,4 @@ private boolean isFull(int cnt){
     return sp+1 == MAX_SIZE ? true : false;
 }
 ```
+
