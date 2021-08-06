@@ -5,7 +5,7 @@
 
 ## Contents
 
-### DataStructure
+### Data Structure
 * [Array vs Linked List](https://github.com/yeonns2/TIL-Tech-Wiki/blob/main/DataStructure/Array%20vs%20Linked%20List.md)
 * [Stack and Queue](https://github.com/yeonns2/TIL-Tech-Wiki/blob/main/DataStructure/Stack%20and%20Queue.md)
 * [Tree](https://github.com/yeonns2/Tech-Wiki/blob/main/DataStructure/Tree.md)
@@ -17,4 +17,18 @@
 </br>
 
 
+### Network
+* [Application Layer]()
+* [Transport Layer]()
+* [Link Layer]()
+* [Network]()
 
+
+</br>
+
+### Operating System
+* [Process,Thread,Scheduling]()
+* [Process Synchronization]()
+* [Memory Management]()
+* [Virtual Memory]()
+* [Cache]()
