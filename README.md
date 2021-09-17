@@ -3,7 +3,7 @@
 
 </br>
 
-## Contents
+# Contents
 
 ### Data Structure
 * [Array vs Linked List](https://github.com/yeonns2/TIL-Tech-Wiki/blob/main/DataStructure/Array%20vs%20Linked%20List.md)
@@ -15,6 +15,7 @@
 * [Graph](https://github.com/yeonns2/Tech-Wiki/blob/main/DataStructure/Graph.md)
 
 </br>
+
 
 
 ### Network
@@ -32,3 +33,32 @@
 * [Memory Management]()
 * [Virtual Memory]()
 * [Cache]()
+
+
+</br>
+
+### Data Structure C Code
+* [Linked-List]()
+* [Queue]()
+* [Recursion]()
+* [Set]()
+* [Stack]()
+* [Tree]()
+
+</br>
+
+### Algorithm C Code
+* [AVL Tree]()
+* [Binary Search Tree]()
+* [Serching]()
+* [Priority Queue]()
+* [Heap : Heap Sort]()
+* [Merge Sort]()
+* [Quick Sort]()
+* [Hash Table]()
+* [Graph]()
+* [DFS]()
+* [BFS]()
+* [Minimum Spanning Tree]()
+* [Directed Graph]()
+* [Dijkstra]()
